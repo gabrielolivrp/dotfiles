@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "terminal.integrated.fontSize": 16,
+    "extensions.ignoreRecommendations": true
+}
