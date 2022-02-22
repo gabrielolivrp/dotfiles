@@ -40,8 +40,8 @@
 ! ------------------------------------------
 
 ! Font
-xterm*faceName: xft: Ubuntu Mono
-xterm*faceSize: 14
+xterm*faceName: Fira Code
+xterm*faceSize: 12
 ! ------------------------------------------
 
 ! Scroll
