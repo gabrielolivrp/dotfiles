@@ -40,7 +40,7 @@
 ! ------------------------------------------
 
 ! Font
-xterm*faceName: Terminus
+xterm*faceName: xft: Ubuntu Mono
 xterm*faceSize: 14
 ! ------------------------------------------
 
