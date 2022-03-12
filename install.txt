@@ -1,0 +1,4 @@
+amixer
+flameshot
+thunar
+Fira Code
