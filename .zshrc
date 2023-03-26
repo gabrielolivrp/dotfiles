@@ -95,7 +95,7 @@ source $ZSH/oh-my-zsh.sh
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
-# Hide "user@hostname" 
+# Hide "user@hostname"
 export DEFAULT_USER="$(whoami)"
 
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
